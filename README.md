@@ -18,7 +18,6 @@ Elements: data, anaylysis, the analyst
 - https://www.npr.org/2023/08/31/1196986907/have-a-food-allergy-your-broken-skin-barrier-might-be-to-blame
 - link between food allergies and a poor skin barrier
 
-Test
 
 ## Week 1 & 2 Summary
 
