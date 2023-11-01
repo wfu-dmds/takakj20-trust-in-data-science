@@ -1,15 +1,14 @@
 # Trust in Data Science
 
 ## Possible Survey Paragraph
-Wake Forest Times (?)
+Broken Skin Barriers are Causing an Increase in Food Allergies by Bryan Thomas
 
-Broken Skin Barriers are Causing an Increase in Food Allergies 
-by Bryan Thomas
+A possible reason that the prevalence of food allergies has increased from less than 1% of the population to almost 6% of the US population in 40 years is because of broken skin barriers. When new food is introduced topically on skin, if the skin barrier is disrupted, the immune system views this food as an intruder. Then later on, when the food is eaten, the body’s immune system reacts the same way, seeing the food as an intruder. Thus, children with eczema, and other skin conditions, are at higher risk for developing food allergies. Because of this reasoning, in 2017, the National Institute of Allergy and Infectious Diseases updated its guidelines on how to introduce peanuts, the leading allergen in the US, to infants with eczema.
 
+According to the National Eczema Association, about 10.1% of the U.S. population has some form of eczema and the prevalence of childhood atopic dermatitis increased for 8% to 15% since 1997.
 
-An article writes that a possible reason that the prevalence of food allergies has increased from less than 1% of the population to almost 6% of the US population in 40 years is because of broken skin barriers. When new food is introduced topically on skin, if the skin barrier is disrupted, the immune system views this food as an intruder. Then later on, when the food is eaten, the body’s immune system reacts the same way, seeing the food as an intruder. Thus, children with eczema, and other skin conditions, are at higher risk for developing food allergies. Because of this reasoning, in 2017, the National Institute of Allergy and Infections Diseases updated its guidelines on how to introduce peanuts, the leading allergen in the US, to infants with eczema. 
+We interviewed Dr. Waheeda Samady, Associate Professor of Pediatrics at Northwestern University Feinberg School of Medicine. She is a board certified Pediatrician with a medical degree from University of California, along with a fellowship and residency in pediatrics at the same university. Her specialty is in Hospital-Based Medicine and she has been published on eight papers, one specifically on egg allergies in children (another leading allergen in the United States).
 
-This article interviewed Dr. Waheeda Samady, Associate Professor of Pediatrics at Northwestern University Feinberg School of Medicine. She is a board certified Pediatrician with a medical degree from University of California, along with a fellowship and residency in pediatrics at the same university. Her specialty is in Hospital-Based Medicine and she has been published on eight papers, one specifically on egg allergies in children (another leading allergen in the United States).
 
 ## Week 3 
 
