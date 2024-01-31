@@ -2,6 +2,36 @@
 
 * Need to be more explicit about what we mean when we say "re-write the paragraph" - maybe give examples for extremes for each of the principles
 * https://www.tandfonline.com/doi/full/10.1080/10618600.2022.2104290
+
+## Kiyo's Prompt for GPT
+    a     b     c
+     1     1     1
+     1     1     2
+     1     1     3
+     1     1     4
+     1     1     5
+     1     2     1
+     1     2     2
+     1     2     3
+     1     2     4
+     1     2     5
+     1     3     1
+     1     3     2
+     1     3     3
+     1     3     4
+     1     3     5
+
+A reader weights the principles as follows: data matching: a exhaustive: b skeptical: c, each from 1 to 5 and above are all the different options. Rewrite the below paragraph based on the different rankings of each principle and add the  response in a new column d for each entry:
+
+A clip of a newspaper article is being written for someone who has specific expectations of principles of data analysis in terms of how they weight the importance of each. Here are the details for the article:
+
+Broken Skin Barriers are Causing an Increase in Food Allergies by Bryan Thomas
+
+A possible reason that the prevalence of food allergies has increased from less than 1% of the population to almost 6% of the US population in 40 years is because of broken skin barriers. When new food is introduced topically on skin, if the skin barrier is disrupted, the immune system views this food as an intruder. Then later on, when the food is eaten, the body’s immune system reacts the same way, seeing the food as an intruder. Thus, children with eczema, and other skin conditions, are at higher risk for developing food allergies. Because of this reasoning, in 2017, the National Institute of Allergy and Infectious Diseases updated its guidelines on how to introduce peanuts, the leading allergen in the US, to infants with eczema.
+
+According to the National Eczema Association, about 10.1% of the U.S. population has some form of eczema and the prevalence of childhood atopic dermatitis increased for 8% to 15% since 1997.
+
+We interviewed Dr. Waheeda Samady, Associate Professor of Pediatrics at Northwestern University Feinberg School of Medicine. She is a board certified Pediatrician with a medical degree from University of California, along with a fellowship and residency in pediatrics at the same university. Her specialty is in Hospital-Based Medicine and she has been published on eight papers, one specifically on egg allergies in children (another leading allergen in the United States).
   
 ## Prompt for GPT
 
